@@ -1,5 +1,5 @@
 <template>
-    <left-side>leftSidemenui</left-side>
+    <left-side>leftSidemhghfhfenui</left-side>
 </template>
 
 
